@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @petrovitsky
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning Java
